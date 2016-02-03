@@ -1,4 +1,4 @@
 TicTacToe
 =========
 
-this is the project of creating the mini project for cse level 2 programming chalange
+This is the project of creating the mini project for cse level 2 programming chalange.
